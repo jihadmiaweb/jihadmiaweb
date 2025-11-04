@@ -93,10 +93,7 @@
 
 <div>
 
-📧 **Email:** [jihadmiaweb@gmail.com]
-💼 **LinkedIn:** []()  
-📘 **Facebook:** []()  
-🌍 **Portfolio:** []()
+<p align="center"> 📧 <b>ইমেইল:</b> <a href="mailto:jihadmiaweb@gmail.com">jihadmiaweb@gmail.com</a> <br/> 💼 <b>লিংকডইন:</b> <a href="https://www.linkedin.com/in/jihad-mia-aa97a1395/" target="_blank">linkedin.com/in/jihad-mia-aa97a1395</a> <br/> 📘 <b>ফেসবুক:</b> <a href="https://www.facebook.com/profile.php?id=61582888187110" target="_blank">facebook.com/jihad.mia</a> <br/> 🌍 <b>পোর্টফোলিও:</b> <a href="https://porsonal-wevsite.vercel.app/" target="_blank">porsonal-wevsite.vercel.app</a> </p>
 
 </div>
 
