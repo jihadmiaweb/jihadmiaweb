@@ -9,18 +9,6 @@
 
 <h3 align="center">Frontend Developer | React • TypeScript • Next.js • Tailwind CSS</h3>
 
-
-
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:00bcd4&height=100&section=header&text=Jihad%20Mia%20|%20Frontend%20Developer&fontSize=35&fontColor=ffffff" />
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
-</p>
-
-
 ---
 
 ## 🧠 About Me
