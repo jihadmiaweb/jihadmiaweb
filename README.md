@@ -16,10 +16,12 @@
 
 <!-- 👨‍💻 Coding GIF -->
 
-
+<p align="center">
+<img src="![Uploading Welcome to My Profile Banner.png…]()" >
+</p>
 
 ---
-![Uploading Welcome to My Profile Banner.png…]()
+
 
 ## 🧠 About Me
 
