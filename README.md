@@ -93,7 +93,7 @@
 
 <div>
 
-📧 **Email:** [()  
+📧 **Email:** [jihadmiaweb@gmail.com]
 💼 **LinkedIn:** []()  
 📘 **Facebook:** []()  
 🌍 **Portfolio:** []()
