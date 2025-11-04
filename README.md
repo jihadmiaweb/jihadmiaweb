@@ -67,16 +67,16 @@
 
 ## 📊 GitHub Stats
 
+### 📊 GitHub Insights
+
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=jihadmiaweb&theme=tokyonight&hide_border=false&show_icons=true&count_private=true" height="165" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jihadmiaweb&theme=tokyonight&hide_border=false" height="165" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jihadmiaweb&layout=compact&theme=tokyonight&hide_border=false" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=siamsheikh-cyber&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=9A6DFF&icon_color=9A6DFF" width="48%">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=siamsheikh-cyber&theme=radical&hide_border=true&background=0D1117&ring=9A6DFF&fire=9A6DFF" width="48%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siamsheikh-cyber&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=9A6DFF" width="48%">
 
 </div>
+<br>
 
 
 ---
