@@ -10,11 +10,7 @@
 </p> -->
 
 <!-- 💻 Role Description -->
-<p align="center">
-   <a href="">
-     <img src="<img width="1536" height="1024" alt="Welcome to My Profile Banner" src="https://github.com/user-attachments/assets/9d1d6ffc-bf94-41a4-a19b-0f2401c4045f" />" >
-     <a/>
-</p>
+
 
 <!-- 👨‍💻 Coding GIF -->
 
