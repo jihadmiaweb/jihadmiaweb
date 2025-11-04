@@ -77,7 +77,6 @@
 
 ---
 
-## 📊 GitHub Stats
 
 ### 📊 GitHub Insights
 
