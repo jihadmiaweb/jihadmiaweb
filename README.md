@@ -16,8 +16,9 @@
 
 <!-- 👨‍💻 Coding GIF -->
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding animation" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWphdW9uc2U4azdycjY2NmRibXNnZ3h3YXRrN3Rkczc0ZmZ2b3hhcCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/BferOKonYOspm28AiB/giphy.gif" width="400" alt="Coding animation" />
 </p>
+
 
 ---
 
