@@ -13,7 +13,7 @@
 
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00bcd4&height=120&section=header&text=Hi,+I'm+Jihad+Mia!👋&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:00bcd4&height=100&section=header&text=Jihad%20Mia%20|%20Frontend%20Developer&fontSize=35&fontColor=ffffff" />
 </p>
 
 <p align="center">
