@@ -4,19 +4,13 @@
 </p>
 
 <!-- ✍️ Typing Animation / Welcome Banner -->
-<p align="center">
+<p align="">
   <img width="600" alt="Welcome to My Profile Banner" src="https://github.com/user-attachments/assets/9196e05e-5386-4018-b019-a7fe10283b81" />
 </p>
 
 <!-- 💻 Role Description -->
-<p align="center">
-  <strong>Frontend Developer | React • TypeScript • Next.js • Tailwind CSS</strong>
-</p>
 
-<!-- 👨‍💻 Coding GIF -->
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding Animation" />
-</p>
+
 
 
 
