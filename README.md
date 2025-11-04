@@ -5,9 +5,9 @@
 </p>
 
 <!-- ✍️ Typing Animation -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&pause=1000&color=00bcd4&center=true&vCenter=true&width=600&lines=Frontend+Developer;React+%7C+Next.js+%7C+TypeScript;Passionate+about+UI%2FUX+Design;Always+Learning+New+Tech" alt="Typing Animation" />
-</p>
+</p> -->
 
 <!-- 💻 Role Description -->
 <p align="center">
