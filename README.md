@@ -66,14 +66,18 @@
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jihadmiaweb&theme=tokyonight&hide_border=false&show_icons=true&count_private=true" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jihadmiaweb&theme=tokyonight&hide_border=false" height="165" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jihadmiaweb&layout=compact&theme=tokyonight&hide_border=false" height="165" />
-</p>
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=jihadmiaweb&theme=tokyonight&hide_border=false&show_icons=true&count_private=true" height="165" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jihadmiaweb&theme=tokyonight&hide_border=false" height="165" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jihadmiaweb&layout=compact&theme=tokyonight&hide_border=false" height="165" />
+
+</div>
+
 
 ---
 
