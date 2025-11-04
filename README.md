@@ -11,6 +11,16 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
 </p>
 
+---
+
+## 🧠 About Me
+
+- 🌱 Currently learning: **Advanced TypeScript & Next.js 15**  
+- 🎯 Goal: **Become a Full Stack Web Developer**  
+- 🎨 Design Tools: **Figma, Adobe XD**  
+- 💡 Motto: *"Code it beautifully, build it smartly, and ship it proudly."*
+
+---
 
 ## 🌐 Connect with Me
 
@@ -42,6 +52,8 @@
 
 ---
 
+####  Github Link
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=siamsheikh-cyber&label=Profile%20views&color=0e75b6&style=flat" alt="yasin-sorkar47" /> </p>
 ---
 ## 🛠️ Tech Stack & Tools
 
@@ -90,16 +102,7 @@
 
 [![](https://visitcount.itsvg.in/api?id=jihadmiaweb&label=Profile%20Views&color=6&icon=5&pretty=false)](https://visitcount.itsvg.in)
 
----
 
-## 🧠 About Me
-
-- 🌱 Currently learning: **Advanced TypeScript & Next.js 15**  
-- 🎯 Goal: **Become a Full Stack Web Developer**  
-- 🎨 Design Tools: **Figma, Adobe XD**  
-- 💡 Motto: *"Code it beautifully, build it smartly, and ship it proudly."*
-
----
 
 <p align="center">
   <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="500" alt="Coding Animation"/>
