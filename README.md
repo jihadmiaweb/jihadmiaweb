@@ -1,7 +1,7 @@
 <!-- 🌊 Waving Banner --> 
 <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=00bcd4&height=120&section=header&text=Hi,+I'm+Jihad+Mia!👋&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" /> 
 </p> 
-
+<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=9A6DFF&center=true&vCenter=true&width=550&lines=Frontend+Developer;React+%7C+TypeScript+%7C+Tailwind+CSS;Loves+Clean+UI+%26+Animations" alt="Typing SVG" /> </p>
 <!-- ✍️ Typing Animation --> 
 <img width="1536" height="1024" alt="Welcome to My Profile Banner" src="https://github.com/user-attachments/assets/9196e05e-5386-4018-b019-a7fe10283b81" />
 
@@ -25,9 +25,9 @@
 
 <p align="center">
   <a href="">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+    <img src="https://www.facebook.com/profile.php?id=61582888187110" alt="Facebook"/>
   </a>
-  <a href="https://www.linkedin.com/in/jihad-mia/">
+  <a href="https://www.linkedin.com/in/jihad-mia-aa97a1395/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/jihadmiaweb">
