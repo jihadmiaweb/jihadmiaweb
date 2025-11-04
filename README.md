@@ -45,17 +45,20 @@
 ---
 ## 💻 Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,nodejs,mongodb,figma,vite,git&perline=7" />
-</p>
+<div align="center">
 
-<p align="center">
-  <b>Frontend:</b> React, Next.js, Redux, Tailwind CSS  
-  <br />
-  <b>Backend:</b> Node.js, MongoDB  
-  <br />
-  <b>Tools & Others:</b> Git, Figma, Vite
-</p>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,nodejs,mongodb,figma,vite,git&perline=7" />
+
+<br /><br />
+
+<b>🖥️ Frontend:</b> React, Next.js, Redux, Tailwind CSS  
+<br />
+<b>⚙️ Backend:</b> Node.js, MongoDB  
+<br />
+<b>🛠️ Tools & Others:</b> Git, Figma, Vite  
+
+</div>
+
 
 
 ---
