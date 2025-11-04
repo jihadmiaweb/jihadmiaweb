@@ -1,12 +1,9 @@
-<!-- 🌊 Waving Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00bcd4&height=120&section=header&text=Hi,+I'm+Jihad+Mia!👋&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="Waving Banner" />
-</p>
+<!-- 🌊 Waving Banner --> 
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=00bcd4&height=120&section=header&text=Hi,+I'm+Jihad+Mia!👋&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" /> 
+</p> 
 
-<!-- ✍️ Typing Animation / Welcome Banner -->
-<p align="">
-  <img width="600" alt="Welcome to My Profile Banner" src="https://github.com/user-attachments/assets/9196e05e-5386-4018-b019-a7fe10283b81" />
-</p>
+<!-- ✍️ Typing Animation --> 
+<img width="1536" height="1024" alt="Welcome to My Profile Banner" src="https://github.com/user-attachments/assets/9196e05e-5386-4018-b019-a7fe10283b81" />
 
 <!-- 💻 Role Description -->
 
