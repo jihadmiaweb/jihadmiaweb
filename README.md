@@ -10,9 +10,9 @@
 </p>
 
 <!-- 💻 Role Description -->
-<h3 align="center">
-  🚀 Frontend Developer | React • TypeScript • Next.js • Tailwind CSS
-</h3>
+<p align="center">
+  <img src="YOUR_IMAGE_URL_HERE" alt="Welcome to My Profile Banner" />
+</p>
 
 <!-- 👨‍💻 Coding GIF -->
 
