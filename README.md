@@ -91,19 +91,11 @@
 
 ## 📫 You Can Find Me @  
 
-<p align="center">
-  <a href="mailto:jihadmiaweb@gmail.com">
-    <img src="https://img.shields.io/badge/Email-%23E34F26.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/jihad-mia-aa97a1395/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.facebook.com/profile.php?id=61582888187110" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
-  <a href="https://porsonal-wevsite.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-%2312100E.svg?&style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
+<p  style="font-size: 17px;">
+  📧 <b>Email:</b> <a href="mailto:jihadmiaweb@gmail.com" style="color:#58A6FF;">jihadmiaweb@gmail.com</a> <br/>
+  💼 <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/jihad-mia-aa97a1395/" target="_blank" style="color:#58A6FF;">linkedin.com/in/jihad-mia-aa97a1395</a> <br/>
+  📘 <b>Facebook:</b> <a href="https://www.facebook.com/profile.php?id=61582888187110" target="_blank" style="color:#58A6FF;">facebook.com/jihad.mia</a> <br/>
+  🌍 <b>Portfolio:</b> <a href="https://porsonal-wevsite.vercel.app/" target="_blank" style="color:#58A6FF;">porsonal-wevsite.vercel.app</a>
 </p>
 
 
