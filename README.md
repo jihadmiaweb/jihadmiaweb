@@ -3,7 +3,8 @@
 </p> 
 <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=9A6DFF&center=true&vCenter=true&width=550&lines=Frontend+Developer;React+%7C+TypeScript+%7C+Tailwind+CSS;Loves+Clean+UI+%26+Animations" alt="Typing SVG" /> </p>
 <!-- ✍️ Typing Animation --> 
-<img width="1536" height="1024" alt="Welcome to My Profile Banner" src="https://github.com/user-attachments/assets/9196e05e-5386-4018-b019-a7fe10283b81" />
+
+<img width="1536" height="628" alt="Welcome to My Profile Banner" src="https://github.com/user-attachments/assets/56951f0d-6ff0-47bf-8214-a16a3c6ae806" />
 
 <!-- 💻 Role Description -->
 
