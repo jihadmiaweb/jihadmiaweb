@@ -11,10 +11,11 @@
 
 <!-- 💻 Role Description -->
 <p align="center">
-  <img src="YOUR_IMAGE_URL_HERE" alt="Welcome to My Profile Banner" />
+   <a href=""><a/>
 </p>
 
 <!-- 👨‍💻 Coding GIF -->
+<img width="1536" height="1024" alt="Welcome to My Profile Banner" src="https://github.com/user-attachments/assets/5cb7fbc3-463c-4d11-93de-f283b8a26fcc" />
 
 <p align="center">
 <img src="![Uploading Welcome to My Profile Banner.png…]()" >
