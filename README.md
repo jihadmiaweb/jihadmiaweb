@@ -1,24 +1,24 @@
-
 <!-- 🌊 Waving Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00bcd4&height=120&section=header&text=Hi,+I'm+Jihad+Mia!👋&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00bcd4&height=120&section=header&text=Hi,+I'm+Jihad+Mia!👋&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="Waving Banner" />
 </p>
 
-<!-- ✍️ Typing Animation -->
-<img width="1536" height="1024" alt="Welcome to My Profile Banner" src="https://github.com/user-attachments/assets/9196e05e-5386-4018-b019-a7fe10283b81" />
-
+<!-- ✍️ Typing Animation / Welcome Banner -->
+<p align="center">
+  <img width="600" alt="Welcome to My Profile Banner" src="https://github.com/user-attachments/assets/9196e05e-5386-4018-b019-a7fe10283b81" />
+</p>
 
 <!-- 💻 Role Description -->
-
+<p align="center">
+  <strong>Frontend Developer | React • TypeScript • Next.js • Tailwind CSS</strong>
+</p>
 
 <!-- 👨‍💻 Coding GIF -->
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding Animation" />
+</p>
 
 
-
-
-
-
----
 
 
 ## 🧠 About Me
