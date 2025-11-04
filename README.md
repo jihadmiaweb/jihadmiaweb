@@ -11,15 +11,16 @@
 
 <!-- 💻 Role Description -->
 <p align="center">
-   <a href=""><a/>
+   <a href="">
+     <img src="<img width="1536" height="1024" alt="Welcome to My Profile Banner" src="https://github.com/user-attachments/assets/9d1d6ffc-bf94-41a4-a19b-0f2401c4045f" />" >
+     <a/>
 </p>
 
 <!-- 👨‍💻 Coding GIF -->
-<img width="1536" height="1024" alt="Welcome to My Profile Banner" src="https://github.com/user-attachments/assets/5cb7fbc3-463c-4d11-93de-f283b8a26fcc" />
 
-<p align="center">
-<img src="![Uploading Welcome to My Profile Banner.png…]()" >
-</p>
+
+
+
 
 
 ---
