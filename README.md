@@ -89,13 +89,23 @@
 </div>
 <br>
 
-## 📫 You can find me @
+## 📫 You Can Find Me @  
 
-<div>
+<p align="center">
+  <a href="mailto:jihadmiaweb@gmail.com">
+    <img src="https://img.shields.io/badge/Email-%23E34F26.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/jihad-mia-aa97a1395/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=61582888187110" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  <a href="https://porsonal-wevsite.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%2312100E.svg?&style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
 
-<p align="center"> 📧 <b>ইমেইল:</b> <a href="mailto:jihadmiaweb@gmail.com">jihadmiaweb@gmail.com</a> <br/> 💼 <b>লিংকডইন:</b> <a href="https://www.linkedin.com/in/jihad-mia-aa97a1395/" target="_blank">linkedin.com/in/jihad-mia-aa97a1395</a> <br/> 📘 <b>ফেসবুক:</b> <a href="https://www.facebook.com/profile.php?id=61582888187110" target="_blank">facebook.com/jihad.mia</a> <br/> 🌍 <b>পোর্টফোলিও:</b> <a href="https://porsonal-wevsite.vercel.app/" target="_blank">porsonal-wevsite.vercel.app</a> </p>
-
-</div>
 
 [![](https://visitcount.itsvg.in/api?id=jihadmiaweb&label=Profile%20Views&color=6&icon=5&pretty=false)](https://visitcount.itsvg.in)
 
