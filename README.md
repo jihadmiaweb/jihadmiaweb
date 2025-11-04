@@ -93,10 +93,10 @@
 
 <div>
 
-📧 **Email:** [siamthecoder@gmail.com](mailto:siamthecoder@gmail.com)  
-💼 **LinkedIn:** [linkedin.com/in/ss-aa-98916737b](https://www.linkedin.com/in/ss-aa-98916737b/)  
-📘 **Facebook:** [facebook.com/share/1BWYQBtxZT/](https://www.facebook.com/share/1BWYQBtxZT/)  
-🌍 **Portfolio:** [my-portfolio-nine-flax-71.vercel.app](https://my-portfolio-nine-flax-71.vercel.app/)
+📧 **Email:** [siamthecoder@gmail.com]()  
+💼 **LinkedIn:** [linkedin.com/in/ss-aa-98916737b]()  
+📘 **Facebook:** [facebook.com/share/1BWYQBtxZT/]()  
+🌍 **Portfolio:** [my-portfolio-nine-flax-71.vercel.app]()
 
 </div>
 
