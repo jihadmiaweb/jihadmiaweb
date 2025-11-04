@@ -1,13 +1,23 @@
-<!-- 💫 About Me Section -->
+
+<!-- 🌊 Waving Banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00bcd4&height=120&section=header&text=Hi,+I'm+Jihad+Mia!👋&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 </p>
 
+<!-- ✍️ Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&pause=1000&color=00bcd4&center=true&vCenter=true&width=600&lines=Frontend+Developer;React+%7C+Next.js+%7C+TypeScript;Passionate+about+UI%2FUX+Design;Always+Learning+New+Tech" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&pause=1000&color=00bcd4&center=true&vCenter=true&width=600&lines=Frontend+Developer;React+%7C+Next.js+%7C+TypeScript;Passionate+about+UI%2FUX+Design;Always+Learning+New+Tech" alt="Typing Animation" />
 </p>
 
-<h3 align="center">Frontend Developer | React • TypeScript • Next.js • Tailwind CSS</h3>
+<!-- 💻 Role Description -->
+<h3 align="center">
+  🚀 Frontend Developer | React • TypeScript • Next.js • Tailwind CSS
+</h3>
+
+<!-- 👨‍💻 Coding GIF -->
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding animation" />
+</p>
 
 ---
 
