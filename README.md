@@ -43,21 +43,23 @@
 ---
 
 ---
-## 💻 Tech Stack
+## 🛠️ Tech Stack & Tools
 
-<div align="center">
+### 🧩 Frontend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,vite" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,nodejs,mongodb,figma,vite,git&perline=7" />
+### ⚙️ Backend (Learning)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres" />
+</p>
 
-<br /><br />
+### 🧰 Tools & Others
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,figma,postman,vscode,vercel,netlify" />
+</p>
 
-<b>🖥️ Frontend:</b> React, Next.js, Redux, Tailwind CSS  
-<br />
-<b>⚙️ Backend:</b> Node.js, MongoDB  
-<br />
-<b>🛠️ Tools & Others:</b> Git, Figma, Vite  
-
-</div>
 
 
 
