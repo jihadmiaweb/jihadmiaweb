@@ -89,15 +89,16 @@
 </div>
 <br>
 
+## 📫 You can find me @
 
----
+<div>
 
-## 🔝 Top Contributed Repo
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=jihadmiaweb&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
-</p>
+📧 **Email:** [siamthecoder@gmail.com](mailto:siamthecoder@gmail.com)  
+💼 **LinkedIn:** [linkedin.com/in/ss-aa-98916737b](https://www.linkedin.com/in/ss-aa-98916737b/)  
+📘 **Facebook:** [facebook.com/share/1BWYQBtxZT/](https://www.facebook.com/share/1BWYQBtxZT/)  
+🌍 **Portfolio:** [my-portfolio-nine-flax-71.vercel.app](https://my-portfolio-nine-flax-71.vercel.app/)
 
----
+</div>
 
 [![](https://visitcount.itsvg.in/api?id=jihadmiaweb&label=Profile%20Views&color=6&icon=5&pretty=false)](https://visitcount.itsvg.in)
 
