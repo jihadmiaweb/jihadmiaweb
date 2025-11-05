@@ -23,19 +23,21 @@
 ---
 
 ## 🌐 Connect with Me
-
-<p align="center">
-<a href="https://www.facebook.com/profile.php?id=61582888187110" target="_blank">
-  <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" alt="Facebook" width="40" />
-</a>
-
-  <a href="https://www.linkedin.com/in/jihad-mia-aa97a1395/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<!-- 🌐 Social Links | Black & Blue Modern Theme -->
+<p align="center" style="background-color:#0d1117; padding:20px; border-radius:10px;">
+  <a href="https://www.facebook.com/profile.php?id=61582888187110" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" alt="Facebook" width="40" style="margin: 0 10px; filter: drop-shadow(0 0 5px #00bcd4);" />
   </a>
-  <a href="https://github.com/jihadmiaweb">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+
+  <a href="https://www.linkedin.com/in/jihad-mia-aa97a1395/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin: 0 10px; filter: drop-shadow(0 0 5px #00bcd4);" />
+  </a>
+
+  <a href="https://github.com/jihadmiaweb" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="margin: 0 10px; filter: drop-shadow(0 0 5px #00bcd4);" />
   </a>
 </p>
+
 
 ---
 
