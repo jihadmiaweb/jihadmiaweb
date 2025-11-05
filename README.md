@@ -21,22 +21,22 @@
 - 💡 Motto: *"Code it beautifully, build it smartly, and ship it proudly."*
 
 ---
-
 ## 🌐 Connect with Me
-<!-- 🌐 Social Links | Black & Blue Modern Theme -->
-<p align="center" style="background-color:#0d1117; padding:20px; border-radius:10px;">
+
+<p align="center">
   <a href="https://www.facebook.com/profile.php?id=61582888187110" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" alt="Facebook" width="40" style="margin: 0 10px; filter: drop-shadow(0 0 5px #00bcd4);" />
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" alt="Facebook" width="40" style="margin: 0 15px; filter: brightness(0) saturate(100%) invert(36%) sepia(89%) saturate(747%) hue-rotate(169deg) brightness(94%) contrast(95%);" />
   </a>
 
   <a href="https://www.linkedin.com/in/jihad-mia-aa97a1395/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin: 0 10px; filter: drop-shadow(0 0 5px #00bcd4);" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin: 0 10px;" />
   </a>
 
   <a href="https://github.com/jihadmiaweb" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="margin: 0 10px; filter: drop-shadow(0 0 5px #00bcd4);" />
+    <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="margin: 0 10px;" />
   </a>
 </p>
+
 
 
 ---
