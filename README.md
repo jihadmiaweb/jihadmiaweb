@@ -25,9 +25,10 @@
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="">
-    <img src="https://www.facebook.com/profile.php?id=61582888187110" alt="Facebook"/>
-  </a>
+<a href="https://www.facebook.com/profile.php?id=61582888187110" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" alt="Facebook" width="40" />
+</a>
+
   <a href="https://www.linkedin.com/in/jihad-mia-aa97a1395/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
